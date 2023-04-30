@@ -12,10 +12,7 @@ Original file is located at
 """##**Comprehensive Exam**
 # 1-1 Import data
 
-Build a model for the dataset scooter.csv that will predict the number users for a scooter rental service (user). \\
-1. Justify your choice regarding the method chosen to create the model and explain the pros and cons in comparison with other state-of-the-art methods. \\
-2. Quantify the prediction accuracy of your model and provide a detailed description of the methodology used for this task. \\
-3. Provide a comprehensive list of the limitations of your model and explain how these could potentially be resolve using existing methods.
+
 
 - season : 1:springer	 2:summer	 3:fall	 4:winter \\
 - year : 0= 2011 ,	 1=2012	 \\
